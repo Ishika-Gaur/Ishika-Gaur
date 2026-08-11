@@ -1,0 +1,28 @@
+name: Generate Streak Stats SVG
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate streak stats image
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: <YOUR_GITHUB_USER_ID>
+          github_user_name: Ishika-Gaur
+          theme: default
+          stroke: 6D28D9
+          ring: 6D28D9
+          fire: 6D28D9
+          curr_streak_label: 6D28D9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
