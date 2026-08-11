@@ -70,7 +70,7 @@
 <div align="center">
 
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishika-Gaur&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=6D28D9&icon_color=6D28D9&text_color=24292F" alt="Ishika's GitHub stats"/> -->
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-Gaur&hide_border=true&theme=default&stroke=6D28D9&ring=6D28D9&fire=6D28D9&currStreakLabel=6D28D9" alt="Ishika's GitHub streak"/>
+<img height="165" src="https://raw.githubusercontent.com/Ishika-Gaur/Ishika-Gaur/master/github-streak-stats.svg" alt="Ishika's GitHub streak"/>
 
 </div>
 
