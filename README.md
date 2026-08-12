@@ -63,18 +63,7 @@
 
 <br/>
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
 
-## ⚡ My GitHub Activity
-
-<div align="center">
-
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishika-Gaur&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=6D28D9&icon_color=6D28D9&text_color=24292F" alt="Ishika's GitHub stats"/> -->
-<img height="165" src="https://raw.githubusercontent.com/Ishika-Gaur/Ishika-Gaur/master/github-streak-stats.svg" alt="Ishika's GitHub streak"/>
-
-</div>
-
-<br/>
 
 <!-- ===================== CODING JOURNEY ===================== -->
 
